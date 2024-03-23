@@ -1,0 +1,55 @@
+ .header{
+          /* background-color:#b1c09cb3; */
+          background-image: url('./images/back-img-1.jpg');
+          height: 90vh;
+          background-position: center;
+          background-size:cover;
+          background-repeat: no-repeat;
+          /* position: relative; */
+          /* z-index: 10; */
+          
+        }
+
+
+.head-box-2{
+  /* position: relative; */
+  color: wheat;
+  height: 100%;
+}
+.head-box-2 h1{
+  z-index:1;
+  font-size: 3em;
+}
+
+  .head-box{
+  background-color: black;
+  height: 100%;
+  opacity: 0.56;
+}
+
+.madimi-one-regular {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+.main{
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  border: groove;
+  background-color: burlywood;
+
+  }
+.main div{
+  display: inline-block;
+ margin: 10px;
+}
+footer li{
+  list-style: none;
+}
+.links{
+  text-decoration: none;
+}
+footer{
+  background-color:wheat;
+}

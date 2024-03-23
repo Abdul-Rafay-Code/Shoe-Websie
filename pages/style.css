@@ -1,0 +1,51 @@
+.bg-img{
+    background-image: url('https://t4.ftcdn.net/jpg/04/52/46/75/240_F_452467546_nheFUtD3D3Yw8H3Dx7qq92N4zCTJtoWV.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 70vh;
+}
+.madimi-one-regular {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .bg-img1{
+background-image: url('https://t3.ftcdn.net/jpg/02/67/36/66/240_F_267366639_qelL0XYqOG9zGcTOvOw4CSvymxokS588.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+  }
+  footer{
+    background-color:wheat;
+  }
+  .contact-form {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  .contact-form h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .form-control {
+    border-radius: 20px;
+  }
+  .form-control:focus {
+    box-shadow: none;
+    border-color: #80bdff;
+  }
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    border-radius: 20px;
+  }
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
